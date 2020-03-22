@@ -31,9 +31,6 @@
     "gulp-replace": "0.5.4",
     "gulp-uglify": "2.0.0"
   },
-  "scripts": {
-    "build": "npm install && gulp"
-  },
   "filename": "dist/jquery.unobtrusive-ajax.min.js",
   "npmName": "jquery-ajax-unobtrusive",
   "npmFileMap": [

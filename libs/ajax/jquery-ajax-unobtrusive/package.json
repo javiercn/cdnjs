@@ -19,10 +19,6 @@
     "url": "https://github.com/aspnet/jquery-ajax-unobtrusive/issues"
   },
   "homepage": "https://github.com/aspnet/jquery-ajax-unobtrusive",
-  "files": [
-    "dist/jquery.unobtrusive-ajax.js",
-    "dist/jquery.unobtrusive-ajax.min.js"
-  ],
   "devDependencies": {
     "gulp": "^4.0.0",
     "gulp-cli": "1.2.2",
